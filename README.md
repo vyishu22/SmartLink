@@ -20,7 +20,6 @@
 - [Sample Logs](#sample-logs)
 - [Sample Database Records](#sample-database-records)
 - [Assumptions](#assumptions)
-- [AI Usage Disclosure](#ai-usage-disclosure)
 
 ---
 
@@ -586,16 +585,5 @@ GET /api/urls/64f.../analytics 200 24ms
 
 ---
 
-## AI Usage Disclosure
-
-This project was architected and implemented with the assistance of **Claude (Anthropic)** as part of the development workflow. AI assistance was used for:
-- Boilerplate scaffolding and repetitive code generation
-- Consistent API response formatting
-- Tailwind CSS component styling patterns
-- Test case structure
-
-All business logic, architecture decisions, schema design, and feature completeness were directed and reviewed by the developer.
-
----
 
 > This project is a part of a hackathon run by https://katomaran.com
