@@ -453,43 +453,40 @@ Response 200: { "data": { "urls": [...], "pagination": { "page", "limit", "total
 > **Note:** Update `CLIENT_URL` in your Render env vars to your Vercel domain to allow CORS.
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Home Page
+###  Home Page
 
 <img width="1920" height="952" alt="Home Page" src="https://github.com/user-attachments/assets/d21969bd-3ee7-4f42-89b5-25883d96e603" />
 
-### 🔐 Sign In
+###  Sign In
 
 <img width="1920" height="971" alt="Sign In" src="https://github.com/user-attachments/assets/3b8aa787-0930-411e-8b9d-a02dc862e436" />
 
-### 🔑 Login
+###  Login
 
 <img width="1920" height="968" alt="Login" src="https://github.com/user-attachments/assets/df3ce8df-b190-4b69-b65a-babb5a7a2043" />
 
-### 🔗 Single Link Shortening
+###  Single Link Shortening
 
 <img width="1920" height="974" alt="Single Link Shortening" src="https://github.com/user-attachments/assets/a0ba74ab-2b7f-4ed8-a160-cc8e8cd6d0c8" />
 
-### 📂 Bulk Link Processing
+###  Bulk Link Processing
 
 <img width="1920" height="964" alt="Bulk Link Processing" src="https://github.com/user-attachments/assets/cde655f3-0fc4-4628-b2a8-d48a7be16ba4" />
 
-### 📊 Analytics Dashboard
+###  Analytics Dashboard
 
 <img width="1920" height="981" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/97bd8eb6-a7f8-4fd0-9e28-d145f9384b91" />
 
-### 🎛️ Dashboard
-
-<img width="1920" height="1020" alt="Dashboard" src="https://github.com/user-attachments/assets/7bbde2a5-1bed-477a-9c3d-6d8d51fda01e" />
-
-### 🗄️ MongoDB Collections
+###  Dashboard
 
 <img width="1920" height="982" alt="MongoDB Collections" src="https://github.com/user-attachments/assets/953ffdfc-0009-40dd-9ea7-3eadf75b1289" />
 
-### 🛡️ Threat Detection Results
+###  MongoDB Collections
 
 <img width="1920" height="974" alt="Threat Detection Results" src="https://github.com/user-attachments/assets/818360be-8f3d-4322-b159-51411e1d2a69" />
+
 
 ---
 
