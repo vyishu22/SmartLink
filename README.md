@@ -462,7 +462,7 @@ Response 200: { "data": { "urls": [...], "pagination": { "page", "limit", "total
 
 ## Loom Video
 
-> _(Add your Loom walkthrough link here)_
+> (https://www.loom.com/share/6fd6fa7b3d754584a232055391b59113)
 
 ---
 
