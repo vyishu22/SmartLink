@@ -471,13 +471,17 @@ Response 200: { "data": { "urls": [...], "pagination": { "page", "limit", "total
 
 <img width="1920" height="974" alt="Single Link Shortening" src="https://github.com/user-attachments/assets/a0ba74ab-2b7f-4ed8-a160-cc8e8cd6d0c8" />
 
-###  Bulk Link Processing
+###  Link Created Successfully
 
 <img width="1920" height="964" alt="Bulk Link Processing" src="https://github.com/user-attachments/assets/cde655f3-0fc4-4628-b2a8-d48a7be16ba4" />
 
 ###  Analytics Dashboard
 
 <img width="1920" height="981" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/97bd8eb6-a7f8-4fd0-9e28-d145f9384b91" />
+
+###  Bulk Link Processing
+
+<img width="1920" height="968" alt="Screenshot 2026-06-14 104318" src="https://github.com/user-attachments/assets/dccf757a-bcba-486d-975d-b13418d9900e" />
 
 ###  Dashboard
 
